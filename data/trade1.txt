@@ -1,0 +1,8 @@
+AAN,      ggasdgf    buy, 500
+AGI, sell  20
+MON, sell, 50,
+AGI, buy, 100 ss
+MON, sell, 5
+     AAN, sell, 50
+MON, buy, 200
+AAN, sell, 100
